@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - dieLine
+  - Fruits
+  - Enemy
+  - Platform
+  - LightSource
+  - NPC
+  - ladder
+  - JumpChest
+  - FinalBoss
+  - Campfire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default-background
+    uniqueID: 4161692583
+    locked: 0
+  - name: Decroration_forward
+    uniqueID: 1784884309
+    locked: 0
+  - name: Background
+    uniqueID: 3492359371
+    locked: 0
+  - name: Ground
+    uniqueID: 2210858009
+    locked: 0
+  - name: ParticleEffect
+    uniqueID: 1682995713
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Decroration_backward
+    uniqueID: 2750739567
+    locked: 0
+  - name: Player
+    uniqueID: 4106641735
+    locked: 0
+  - name: Rain
+    uniqueID: 2657225087
+    locked: 0
